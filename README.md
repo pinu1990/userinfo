@@ -15,7 +15,7 @@ This is a simple User Information system built with **PHP**, **MySQL**, and a **
 - 1. Go to the XAMPP installation directory:
    - Example: `C:\xampp\htdocs\`
 2. Create a new folder:
-   - Example: `Goqii-test`
+   -  `Goqii-test`
 3. Copy all project files into this folder:
    - `index.html`
    - `api.php`
